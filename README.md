@@ -32,7 +32,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-https://bing.com/th/id/BCEI.af7b8725-039b-4925-b452-e4c466b35a18.png
+
 
 # 🥧 Pie Chart: Average Attendance by Department
 avg_attendance = df.groupby('Department')['Attendance %'].mean()
